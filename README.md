@@ -2,7 +2,7 @@
 
 This repository contains the supplementary material and code for the following paper:
 
-Zhao-Rong Lai, Weiwen Wang, "Invariant Risk Minimization Is A Total Variation Model", In Proceedings of the 41st International Conference on Machine Learning (ICML), vol. 235, pp. 25913--25935, 2024.
+Zhao-Rong Lai, Weiwen Wang*, "Invariant Risk Minimization Is A Total Variation Model", In Proceedings of the 41st International Conference on Machine Learning (ICML), vol. 235, pp. 25913--25935, 2024.
 
 These codes are built based on the project from the following paper:
 
